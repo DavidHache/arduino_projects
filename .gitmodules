@@ -1,0 +1,3 @@
+[submodule "home_lights/FastLED"]
+	path = home_lights/FastLED
+	url = https://github.com/FastLED/FastLED.git
